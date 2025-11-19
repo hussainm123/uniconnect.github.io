@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HS Pforzheim UniConnect",
+  "description": "An AI-powered digital assistant to help exchange students smoothly integrate into a new country and university. Features include a helpful chatbot with Google Search grounding, an Events Dashboard, a Mock Student Portal, automated onboarding processes, and secure credential verification.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
